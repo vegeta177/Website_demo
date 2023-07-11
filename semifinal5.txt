@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <title>HTML Project</title>
+</head>
+<body>
+    <!--Start Header-->
+    <table id="header" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+        <tr>
+            <td>
+                <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                    <tr>
+                        <td>
+                            <font face="serif" color="#" size="5">
+                                <span class="fa fa-user-circle" aria-hidden="true"></span>
+                                Asim Noor
+                            </font>
+                        </td>
+                        <td >
+                            &nbsp;
+                        </td>
+                        <td>
+                            <a href="#home"><font face="arial" color="#0" size="4">Home</font></a>
+                        </td>
+                        <td>
+                            <a href="#Topic"><font face="arial" color="#0" size="4">Topic</font></a>
+                        </td>
+                         <td>
+                            <a href="#about"><font face="arial" color="#0" size="4">About</font></a>
+                        </td>
+                        <td>
+                            <a href="#services"><font face="arial" color="#0" size="4">Services</font></a>
+                        </td>
+                        <td>
+                            <a href="#testimonial"><font face="arial" color="#0" size="4">Testimonials</font></a>
+                        </td>
+                        <td>
+                            <a href="#achievements"><font face="arial" color="#0" size="4">Achievements</font></a>
+                        </td>
+                        <td>
+                            <a href="#contact"><font face="arial" color="#0" size="4">Contact</font></a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+
+        </tr>
+
+
+    </table>
+    <!--End Header-->
+    <!--Start Home-->
+    <table id="home" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#5cdb95" background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP-xDSiCKdKa1u87HhkpAREgMAmKZf4sz0JA&usqp=CAU">
+        <tr>
+            <td>
+                <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                    <tr>
+                        <td align="center" valign="middle">
+                            <h3>
+                                <font face="serif" color="#edf5e1" size="6">
+                                    Web Development Assignment 
+                                    <hr width="150" color="#000000">
+                                </font>
+                            </h3>
+                        
+                        <h2>
+                            <font face="Garamond" color="#ffffff" size="5">
+                                Name - Asim  Noor<br>
+                                 2101003056 <br>
+                               Date - 5 june <br>
+                               Submitted to - sukhjinder ma'am <br>
+                           </font>
+                        </h2>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+
+        </tr>
+
+
+    </table>
+    <!--End Home-->
+
+    <!--Start Topic-->
+    <table id="Topic" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#379683" background ="https://www.bhphotovideo.com/images/largeimages/Savage_32_1253_Widetone_Seamless_Background_Paper_1158010041000_45628.jpg">
+        <tr>
+            <td>
+                <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                    <!-- Heading Start-->
+                    <tr>
+                        <td height="180" align="center" valign="middle" colspan="2">
+                                <font face="arial" color="#o" size="6">
+                                     Topic Of Assignment
+                                </font>
+                                <hr width="180" color="#05386b">
+                        
+                        </td>
+                    </tr>
+                    <!--Heading End-->
+                    <tr>
+                        <td width="40%">
+                            <img src="https://www.analyticsinsight.net/wp-content/uploads/2021/05/AdobeStock_288803828-1-scaled.jpeg" alt="Asim noor"  width="90%">
+                        </td>
+                        <td width="60%">
+                            <font face="arial" color="#0" size="4">
+                                <h2>
+                                    <b>Crypto currency</b>
+                                </h2>
+                                <big><u><i>Key Points</u></i></big><br>
+                                <br>
+                                
+                               
+                               - Crypto is introduced to the world in 2009 by<br><i>(satoshi nagamoto)</i><br>
+                               <br>
+                               - Aim to make the currency more de-centrilized. So no government authoritirs can control our wealth<br>
+                              <br>
+                             - Total market cap as of now is accumilated $1.5 Trillion dollars<br> <br>
+                            - Biggest Coin <u>BTC</u>
+                              <br><br>
+                              - Market cap of <u>BTC</u> in june 2022 is <b>$600 Billion Dollars</b>
+                               <br><br>
+                              - Value of 1 bitcoin as of now is <i>$32,000 USD / 25 lacks INR</i> <br><br>
+                           - Bitcoin All time high price <i>$70,000 Usd / 55 lacks INR</i> 
+                              
+                                
+                            </font>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+
+        </tr>
+
+
+    </table>
+    <!--End Topic-->
+    
+     <!--Start About-->
+    <table id="about" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#5cdb95"background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP-xDSiCKdKa1u87HhkpAREgMAmKZf4sz0JA&usqp=CAU">
+        <tr>
+            <td>
+                <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                    <!-- Heading Start-->
+                    <tr>
+                        <td height="180" align="center" valign="middle" colspan="2">
+                                <font face="arial" color="#edf5e1" size="6">
+                                     About Crypto
+                                </font>
+                                <hr width="70" color="#05386b">
+                        
+                        </td>
+                    </tr>
+                    <!--Heading End-->
+                    <tr>
+                        <td width="40%">
+                            <img src="https://image.shutterstock.com/image-vector/centralised-vs-decentralised-business-diagram-260nw-1866499276.jpg" alt="Asim noor"  width="90%"><br><br><br>
+                              <img src="https://cdn.pixabay.com/photo/2019/09/16/19/20/bitcoin-4481815__340.jpg" alt="Asim noor"  width="90%">
+                        </td>
+                        <td width="60%">
+                            <font face="arial" color="#05386b" size="4">
+                                <h2>
+                                    Basics and Use of crypto
+                                </h2>
+                              <b> - As of now crypto is already allowed in several countries as payment methods eg. EL SALVADOR</b><br> 
+                                where as it is used as an investment assect in maximum countries (Including INDIA).<br><br>
+                               <b>- Motive of cryto is to make the payment more efficient and de-centrilized.</b><br> because The (Cash / liquid funds) we are using like (INR)(USD) are under control of government and they can print as much money as they want. and also they did events like (2016 Demonitization) in india. where Government refuse to accept (Rs500 / Rs1000) currency. And we as an indivisual citizen have no control of our wealth. <br>
+                                
+                                And here Come btc/ crypto With Its Solutions<br><br>
+                                
+                                
+                             <b> - Crypto currency is based on block chain technology So, If we run a smart contract then It is impossible to incurrept it or hack it. As well as no one can control it</b>.<br> Every single indivisual holding BTC have 100% control of it. and 3rd parites can not incurrept it like (government).
+                                
+                                <br><br>
+                               <b>- There are more than 6k cpons and tokens are in the market rigth now but 90% market cap is accuired by top 30-50. </b><br>
+                               Including  (ETHEREUM , BNB , MATIC , SOL ) which are Layer1, Layer2 projects and provides (Smart contract / smart chain) technology, which is advanced from BTC.
+                                <br>
+                              
+                              
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                        
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+
+        </tr>
+
+
+    </table>
+    <!--End About-->
+    
+<!--Start Services-->
+    <table id="services" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#379683"   background ="https://www.bhphotovideo.com/images/largeimages/Savage_32_1253_Widetone_Seamless_Background_Paper_1158010041000_45628.jpg">
+        <tr>
+            <td>
+                <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                   <!-- Heading Start-->
+                    <tr>
+                        <td height="180" align="center" valign="middle" colspan="2">
+                                <font face="arial" color="#000000" size="6">
+                                   <big>Where to buy and invest in crypto</big>
+                                </font>
+                                <hr width="500" color="#05386b">
+                        
+                        </td>
+                    </tr>
+                    <!--Heading End-->
+                    <tr>
+                     <tr>
+                        <td height="0" align="center" valign="middle" colspan="0">
+                                <font face="arial" color="#000000" size="4">
+                                   <big>Importance of Centralized Exchanges (CEX)</big>
+                                </font>
+                                <hr width="200" color="#05386b">
+                        
+                        </td>
+                    </tr>
+                    <!--Heading End-->
+                    <tr>
+                        <td width="33%">
+                    <font face="arial" color="05386b">
+                        <p><big> (CEX) There are a lot of <i><big>centrilized</big></i> exchange through which we can buy crypto. <u>Why centrilized When Crypto is a decentrilized platform / thing</u>. this is because if we want to exchange (government currency from crypto) (like investing inr so for depositing we have to create a account on Indian CEX through which we can deposite funds from bank to exchange then we can trade. and same goes for withdrawl process.) As well As we can send our crypto to our decentrilized wallets from C-exchange </big>
+</p>   
+<h3 align="center"><a href="service1.html"><img src="https://images.unsplash.com/photo-1624438253998-7bb8eca8a3f0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmluYW5jZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60" alt="Service1" align="middle" width="50%"></a> </h3><br><br><br>
+                    </tr>
+                </table>
+        </tr>
+</table>
+    <!--End Services-->
+    <!--Start Services-->
+    <table id="services" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#c2c0c3"background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP-xDSiCKdKa1u87HhkpAREgMAmKZf4sz0JA&usqp=CAU">
+        <tr> </font>
+            <td>
+                <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                    <!-- Heading Start-->
+                    <tr>
+                        <td height="180" align="center" valign="middle" colspan="3">
+                                <font face="arial" color="#edf5e1" size="6">
+                                     Services
+                                </font>
+                                <hr width="70" color="#292929">
+                        
+                        </td>
+                    </tr>
+                    <!--Heading End-->
+                    <tr>
+                        <td width="33%">
+                        <h2> Centralized Exchange </h2> 
+                        <p> Centrilized exchanges are used for deposite our liquid funds in exchange though which we can invest and trade in crypto. It requires (KYC) which include National ID, PAN card, Photo, Bank details etc. your activity is trackable in these echanges. (less chances of scam) but (these exchanges can hack)
+                       
+                        <br>
+                        </p>
+                            <a href="service1.html"><img src="https://cdn3d.iconscout.com/3d/premium/thumb/wazirx-4976794-4159460.png" alt="Service1"  width="100%"></a>  <h4> Biggest Indian Exchange <br> Waxirx</h4>
+                        </td>
+                        <td width="33%">
+                         <h2> D-Centralized Exchange</h2> 
+                        <p> These are the true form of decentrilization where you Trade, swap and stake without giving your Any details to anyone. Not even your name 'where as CEX required all sensitive information' <br>
+                        D centrilized exchanges work with (smart chain) like ETH, BNB which are layer1,2 and also require wallet and D-apps</p>
+                            <a href="service2.html"><img src="https://thumbs.dreamstime.com/b/pancakeswap-cryptocurrency-coin-gold-d-rendered-isolated-white-background-symbol-210243999.jpg" alt="Service1"  width="100%"></a>
+                              <h4> Most popular dEX<br> PancakeSwap </h4>
+                        </td>
+                        <td width="33%">
+                         <h2> (Dapps) Dcentrilized Apps </h2> 
+                        <p> To access (DEX) and any other decentrilized web we need to connect our (software Wallet) to the website (all are not decentrilized websites) there are only few popular DEX websites that we can trust on. 
+                        Like <br>-UNISWAP <br>-PANCAKESWAP<br> -QUICKSWAP</p>
+                            <a href="service3.html"><img src="https://miro.medium.com/max/769/0*e7O9b-vu5E6_iU52" alt="Service1"  width="100%"></a>
+                            <h4> Most Popular Wallet<br>Trust Wallet </h4>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+        </tr>
+</table>
+    <!--End Services-->
+-<!--Start Testimonial-->
+    <table id="testimonial" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#5cdb95"background ="https://www.bhphotovideo.com/images/largeimages/Savage_32_1253_Widetone_Seamless_Background_Paper_1158010041000_45628.jpg">
+        <tr>
+            <td>
+                <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                    <!-- Heading Start-->
+                    <tr>
+                        <td height="180" align="center" valign="middle" colspan="3">
+                                <font face="arial" color="#0" size="6">
+                                     Type of coins
+                                </font>
+                                <hr width="70" color="#0">
+                        
+                        </td>
+                    </tr>
+                    <!--Heading End-->
+                    <tr>
+                        <td width="33%" valign="top">
+                            <font face="arial" color="#0">
+                                <h3 align="center">BITCOIN</h3>
+                            </font>
+                            <font face="arial" color="#05386b">
+                            Bitcoin was the first crypto coin which introduced blockchain technology to the world and it is also the biggest Coin which is holds (46%) marketcap of all Crypto market. It is the base of all market. Every whale/ crypto influncer have 70-80% btc in their portfolio. basically it is the face of crypto currency. altho it is not on the latest technology. it took 10 minitues to complete transaction and it dont provide smart contracts. But in terms of investment and trust It occupies 50% of all market.
+                            </font>
+                          <br><br><br>  <br><br> <h5>   <a href="service2.html"><img src="https://cdn.pixabay.com/photo/2017/01/25/12/31/bitcoin-2007769__480.jpg" alt="Service1"  width="100%"></a></h5>
+                        </td>
+                        <td width="33%" valign="top">
+                            <font face="arial" color="#0">
+                                <h3 align="center">ALTCOIN </h3>
+                            </font>
+                            <font face="arial" color="#05386b">
+                               Alternative coins are also known as Alt coins. (I personally took Fundamentally strong coins as Altcoins) 
+                              <br> Biggest Alt coin is Ethereum. which introduce Smart contracts,which allow us to make token swap trade and bridge.<br>(Dapps are possible because of ETH) Eth is the 2nd largest coin holds 20% of marketcap of market. having 15 tp/s but still not the fastest,<br> . where as layer1-2 solutions of eth are much much faster. <br> Coins like BNB, sol are 1k time faster than eth, eg SOl have 60K TP/s<br><br><br><br>
+                                <a href="service2.html"><img src="https://cdn.pixabay.com/photo/2018/01/16/01/02/cryptocurrency-3085139__480.jpg" alt="Service1"  width="100%"></a>
+                              
+                            </font>
+                        </td>
+                        <td width="33%" valign="top">
+                            <font face="arial" color="#0">
+                                <h3 align="center">MEME COINS</h3>
+                            </font>
+                            <font face="arial" color="#05386b">
+                               Meme coins are also known as shit coins, because they have no fundamental use. nor they providing any solution like (bnb eth sol) providing. and team behind these project are also not very strong. 80% of coins and tokens are meme coins and they have very less market cap and any small whale can manuplate it easily. maximum times developers make meme coins just to make their money or scam small retail investers.
+                               some of the popular example of meme coins are ( doge coin  shiba inu) which is only influnced by whales.
+                            </font> <br><br><br><br><br>  <a href="service2.html"><img src="https://www.thesun.co.uk/wp-content/uploads/2021/10/AS_SHIBA-CRYPTO_COMP.jpg?w=1040" alt="Service1"  width="100%"></a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3">
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+</tr>
+</table>
+    <!--End Testimonial-->
+
+    <!--Start Achievements-->
+    <table id="achievements" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#379683"background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP-xDSiCKdKa1u87HhkpAREgMAmKZf4sz0JA&usqp=CAU">
+        <tr>
+            <td>
+                <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                    <!-- Heading Start-->
+                    <tr>
+                        <td height="180" align="center" valign="middle" colspan="2">
+                                <font face="arial" color="#292929" size="6">
+                                     Achievements
+                                </font>
+                                <hr width="70" color="#292929">
+                        
+                        </td>
+                    </tr>
+                    <!--Heading End-->
+                    <tr>
+                        <td width="66%" valign="top">
+                           <font face="arial"color="#292929">
+                            <ul>
+                                <li><big> Most Popular Charts Website </big><br>
+                                <a href="https://in.tradingview.com/chart/">
+                                <font face="arial" color="#555555" size="3">
+                                <span class="fa fa-globe" aria-hidden="true"></span>
+                                <sup>     Trading view </sup>
+                            </font></a>
+                                
+                                </li>
+                                <br>
+                                
+                                
+                              
+                                
+                                <li> <big>Price moniter Website</big> <br>
+                                <a href="https://coinmarketcap.com/">
+                                <font face="arial" color="#444444" size="3">
+                                <span class="fa fa-globe" aria-hidden="true"></span>
+                                <sup>    Coin Market Cap</sup>
+                            </font></a>
+                                </li><br>
+                                
+                                
+                                <li><big>  Most popular C-Exchange</big> <br>
+                                <a href="https://accounts.binance.com/en/login/">
+                                <font face="arial" color="#333333" size="3">
+                                <span class="fa fa-globe" aria-hidden="true"></span>
+                                <sup>     Binance </sup>
+                            </font></a>
+                                </li> <br>
+                                
+                                
+                                <li> <big>Most Popular D-Exchange</big> <br>
+                                <a href="https://pancakeswap.finance/">
+                                <font face="arial" color="#000000" size="3">
+                                <span class="fa fa-globe" aria-hidden="true"></span>
+                                <sup>   PancakeSwap </sup>
+                            </font></a>
+                                </li> <br>
+                                
+                                
+                                <li> 
+                                 <big> Biggest NFT MarketPlace </big><br>
+                                <a href="https://in.tradingview.com/chart/">
+                                <font face="arial" color="#111111" size="3">
+                                <span class="fa fa-globe" aria-hidden="true"></span>
+                                <sup>     Trading view </sup>
+                            </font></a>
+                                </li> <br>
+                                
+                                
+                                <li>
+                                 <big>Most Popular Wallet Extention </big><br>
+                                <a href="https://opensea.io/">
+                                <font face="arial" color="#222222" size="3">
+                                <span class="fa fa-globe" aria-hidden="true"></span>
+                                <sup>  OpenSea </sup>
+                            </font></a>
+                                </li><br>
+                            </ul>
+                           </font>
+                        </td>
+                        <td valign="middle">
+                            <img src="https://cdn.wallpapersafari.com/51/82/F08CWK.jpg"  width="120%">
+                        </td>
+                        
+                    </tr>
+                    <tr>
+                        <td>
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+</tr>
+                    <tr>
+                        <td>
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+</table>
+    <!--End Achievements-->
+<!--Start Contact-->
+    <table id="contact" border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#5cdb95"background ="https://www.bhphotovideo.com/images/largeimages/Savage_32_1253_Widetone_Seamless_Background_Paper_1158010041000_45628.jpg">
+        <tr>
+            <td>
+                <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                    <!-- Heading Start-->
+                    <tr>
+                        <td height="180" align="center" valign="middle" colspan="1">
+                                <font face="arial" color="#0"size="6">
+                                     Contact
+                                </font>
+                                <hr width="70" color="#0"
+                        
+                        </td>
+                    </tr>
+                    <!--Heading End-->
+                    <tr>
+                        <td align="center" valign="top">
+                           <table border="0" width="50%" cellpadding="15" cellspacing="0" align="center" bgcolor="#353535" background="https://t3.ftcdn.net/jpg/02/27/79/16/360_F_227791693_pCr3QNIU6MqaqRk0bOXSz1SoZBrqJbmy.jpg"
+                               <tr>
+                                   <td width="30%">
+                                       <font face="arial" size="4" color="#ffffff">
+                                           Name
+                                       </font>
+                                   </td>
+                                   <td width="70%">
+                                    <font face="arial" size="4" color="#ffffff">
+                                        <input type="text" size="40">
+                                    </font>
+                                    </td>
+                               </tr>
+                               <tr>
+                                <td width="30%">
+                                    <font face="arial" size="4" color="#ffffff">
+                                        Email
+                                    </font>
+                                </td>
+                                <td width="70%">
+                                 <font face="arial" size="4" color="#ffffff">
+                                     <input type="text" size="40">
+                                 </font>
+                                 </td>
+                            </tr>
+                            <tr>
+                                <td width="30%">
+                                    <font face="arial" size="4" color="#ffffff">
+                                        Message
+                                    </font>
+                                </td>
+                                <td width="70%">
+                                 <font face="arial" size="4" color="#ffffff">
+                                     <textarea rows="5" cols="42"></textarea>
+                                 </font>
+                                 </td>
+                            </tr>
+                            <tr>
+                                <td width="30%">
+                                   &nbsp;
+                                </td>
+                                <td width="70%">
+                                    <button type="Submit">
+                                        <font face="arial" size="4" color="#292929">
+                                             Submit
+                                        </font>
+                                </button>
+                                 </td>
+                            </tr>
+                           </table>
+                        </td>
+                        
+                    </tr>
+                    <tr>
+                        <td colspan="3">
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </td>
+</tr>
+</table>
+    <!--End Contact-->
+<!--Start Footer-->
+    <table id="header" border="1" width="100%" cellpadding="0" cellspacing="0" bgcolor="#379683"background="https://t3.ftcdn.net/jpg/02/27/79/16/360_F_227791693_pCr3QNIU6MqaqRk0bOXSz1SoZBrqJbmy.jpg">
+        <tr>
+            <td>
+                <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                   
+                    <tr>
+                        <td width="25%" valign="top">
+                        <a href="https://www.facebook.com/asim.noor.790">
+                            <font face="arial" color="#ffffff" size="5">
+                                <span class="fa fa-facebook-square" aria-hidden="true"></span>
+                                Facebook
+                            </font>
+                            
+                        </td>
+                        <td width="25%" valign="top">
+                        <a href="https://twitter.com/Asim51841755">
+                            <font face="arial" color="#ffffff" size="5">
+                                <span class="fa fa-twitter-square" aria-hidden="true"></span>
+                                Twitter
+                            </font>
+                            </a>
+                        </td>
+                        <td width="25%" valign="top">
+                        <a href="https://www.instagram.com/_asim_07/">
+                            <font face="arial" color="#ffffff" size="5">
+                                <span class="fa fa-instagram" aria-hidden="true"></span>
+                                Instagram
+                              
+                            </font>
+                            </a>
+                        </td>
+                        <td width="25%" valign="top">
+                        <a href="https://t.me/Asimnoor7311">
+                            <font face="arial" color="#ffffff" size="5">
+                                <span class="fa fa-telegram" aria-hidden="true"></span>
+                                Telegram
+                              
+                            </font>
+                            </a>
+                        </td>
+                        <td rowspan="2">
+                            <font face="arial" color="#ffffff" size="5">                                  
+                                <span class="fa fa-arrow-circle-up" >                               
+                             <a href="#header">
+                                <font face="arial" color="#ffffff" size="5">
+                                  
+                                 <a href="#header"><font face="arial" color="#ffffff" size="4">Top</font></a>
+                            </a>
+                            </font>
+                            
+                        </td>
+                    </tr>
+                   
+
+
+    </table>
+    <!--End Footer-->
+    /body>
+</html>
+
